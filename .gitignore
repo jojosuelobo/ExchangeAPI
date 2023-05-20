@@ -1,0 +1,57 @@
+# Arquivos gerados pelo Visual Studio
+.vs/
+bin/
+obj/
+
+# Arquivos de compilação
+*.exe
+*.dll
+*.pdb
+
+# Arquivos temporários
+*.user
+*.vspscc
+*.vssscc
+*.cache
+*.bak
+.resharper
+._CRS.
+_ReSharper.
+*.TestResults
+TestResults/
+[Tt]humbs.db
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+node_modules/
+bower_components/
+packages/
+
+# Arquivos de build do MSBuild
+*.csproj.user
+*.unsuccessfulbuild
+*.vcxproj.user
+*.vspscc
+*.vssscc
+.DotSettings.user
+
+# Ferramentas
+_ReSharper/
+*.DotSettings
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nuget.props
+*.nuget.targets
+
+# Arquivos de log
+.log
+
+# Pacotes do NPM
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
